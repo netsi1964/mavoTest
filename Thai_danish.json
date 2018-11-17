@@ -1,16 +1,24 @@
 {
-  "words": [
-    {
-      "word":"luuk",
-      "danish":"barn"
-    },
-    {
-     "word": "luuk chaai",
-      "danish": "søn"
-    },
-    {
-      "word": "luuk Saao",
-      "danish": "datter"
-    }
-  ]
+	"words": [
+		{
+			"word": "luuk",
+			"danish": "barn"
+		},
+		{
+			"word": "luuk chaai",
+			"danish": "søn"
+		},
+		{
+			"word": "luuk Saao",
+			"danish": "datter"
+		},
+		{
+			"word": "Kop-kun-kâp",
+			"danish": "tak (sagt af mand)"
+		},
+		{
+			"word": "Kop-kun-kaa",
+			"danish": "tak (sagt af kvinde)"
+		}
+	]
 }
