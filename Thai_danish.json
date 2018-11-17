@@ -1,5 +1,6 @@
 {
 	"words": [
+		{},
 		{
 			"word": "luuk",
 			"danish": "barn"
@@ -13,11 +14,11 @@
 			"danish": "datter"
 		},
 		{
-			"word": "Kop-kun-kâp",
+			"word": "kop-kun-kâp",
 			"danish": "tak (sagt af mand)"
 		},
 		{
-			"word": "Kop-kun-kaa",
+			"word": "kop-kun-kaa",
 			"danish": "tak (sagt af kvinde)"
 		}
 	]
