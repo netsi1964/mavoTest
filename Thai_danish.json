@@ -1,7 +1,16 @@
 {
-"words": {
-"luuk": "barn",
-"luuk chaai":"søn",
-"luuk Saao":"datter"
-}
+  "words": [
+    {
+      "word":"luuk",
+      "danish":"barn"
+    },
+    {
+     "word": "luuk chaai",
+      "dahish": "søn"
+    },
+    {
+      "word": "luuk Saao",
+      "danish": "datter"
+    }
+  ]
 }
